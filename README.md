@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dario59
+- 👀 I’m interested in fun and interesting things, cool graphs and huge datasets
+- 🌱 I’m currently learning how to handle my life and to get better with Python
+- 💞️ I’m looking to collaborate on projects that involve Basketball, fashion industry and/or healthcare
+- 📫 Reach me on linkedin dario-saturni-380541199
